@@ -1,8 +1,35 @@
-This project is transitioning from an MIT-only license to a dual MIT/Apache-2.0 license. 
-Unless otherwise noted, all code contributed prior to 2019-05-06 and not contributed by 
-a user listed in [this signoff issue](https://github.com/ipfs/go-ipfs/issues/6302) is 
-licensed under MIT-only. All new contributions (and past contributions since 2019-05-06) 
-are licensed under a dual MIT/Apache-2.0 license.
+BLACKROAD OS PROPRIETARY LICENSE
 
-MIT: https://www.opensource.org/licenses/mit
-Apache-2.0: https://www.apache.org/licenses/LICENSE-2.0
+Copyright (c) 2026 BlackRoad OS, Inc. All rights reserved.
+
+TERMS AND CONDITIONS
+
+1. PROPRIETARY SOFTWARE
+   This software and associated documentation files (the "Software") are the
+   proprietary property of BlackRoad OS, Inc. The Software is protected by
+   copyright laws and international treaty provisions.
+
+2. RESTRICTIONS
+   You may NOT:
+   - Copy, modify, or distribute the Software
+   - Reverse engineer, decompile, or disassemble the Software
+   - Rent, lease, or lend the Software
+   - Use the Software for commercial purposes without authorization
+   - Remove or alter any proprietary notices
+
+3. PERMITTED USE
+   This Software is made publicly visible for:
+   - Demonstration and evaluation purposes
+   - Educational reference
+   - Authorized testing and development
+
+4. NO WARRANTY
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED. IN NO EVENT SHALL BLACKROAD OS, INC. BE LIABLE FOR ANY CLAIM,
+   DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OF THE SOFTWARE.
+
+5. CONTACT
+   For licensing inquiries: blackroad.systems@gmail.com
+   Website: https://blackroad.io
+
+BlackRoad OS, Inc.
